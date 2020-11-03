@@ -1,6 +1,11 @@
 # Fairness-Aware-Algorithms-for-Network-Analysis 
 
-This repository provides a reference implementations for the Fairness-Aware-Algorithms-for-Network-Analysis(FAI) which is jointly funded by the National Science Foundation and Amazon under the Fairness in AI program.
+This repository provides a reference implementations for the Fairness-Aware-Algorithms-for-Network-Analysis(FAI) project which is jointly funded by the National Science Foundation and Amazon under the Fairness in AI program.
+
+## Projects:
+
+* [Fairness Perception from a Network-Centric Perspective](https://github.com/farzmas/Fairness-Aware-Algorithms-for-Network-Analysis/tree/main/Fairness%20Perception) 
+* [Fairness-Aware Network Link Prediction](https://github.com/farzmas/FLIP)
 
 ## Project Overview:
 
