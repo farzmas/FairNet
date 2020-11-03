@@ -1,4 +1,4 @@
-#[FAI]Fairness-Aware-Algorithms-for-Network-Analysis
+# [FAI]Fairness-Aware-Algorithms-for-Network-Analysis
 
 This repository provides a reference implementations for the 
 
