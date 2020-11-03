@@ -1,6 +1,6 @@
 # Fairness-Aware-Algorithms-for-Network-Analysis 
 
-This repository provides a reference implementations for the Fairness-Aware-Algorithms-for-Network-Analysis(FAI) project which is jointly funded by the National Science Foundation and Amazon under the Fairness in AI program.
+This repository provides a reference implementations for the Fairness-Aware-Algorithms-for-Network-Analysis(FAI) project which is jointly funded by the National Science Foundation and Amazon under the Fairness in AI program. [**More Information**](http://cse.msu.edu/~ptan/project/fairness/)
 
 ## Research Highlight:
 
