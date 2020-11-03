@@ -4,7 +4,7 @@ This repository provides a reference implementations for the Fairness-Aware-Algo
 
 ## Projects:
 
-* [Fairness Perception from a Network-Centric Perspective](https://github.com/farzmas/Fairness-Aware-Algorithms-for-Network-Analysis/tree/main/Fairness%20Perception) 
+* [Fairness Perception](https://github.com/farzmas/Fairness-Aware-Algorithms-for-Network-Analysis/tree/main/Fairness%20Perception)[1] Investigate the issue of algorithmic fairness from a network-centric perspective by introducing a notion of fairness perception.
 * [Fairness-Aware Network Link Prediction](https://github.com/farzmas/FLIP)
 
 ## Overview:
